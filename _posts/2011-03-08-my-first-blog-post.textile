@@ -1,0 +1,10 @@
+---
+layout: post
+title: How to start your own blog using jekyll
+---
+
+h1. {{ page.title }}
+
+p(meta). 08 Mar 2011
+
+This is some interesting post by me
